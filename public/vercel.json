@@ -1,0 +1,10 @@
+﻿{
+  "version": 2,
+  "name": "casa-junco-landing",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
