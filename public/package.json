@@ -1,0 +1,11 @@
+﻿{
+  "name": "casa-junco-landing",
+  "version": "1.0.0",
+  "description": "Landing Page oficial para Casa Junco (Mar de las Pampas)",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["landing-page", "casa-junco", "mar-de-las-pampas", "demn"],
+  "author": "DEMN Studio",
+  "license": "MIT"
+}
